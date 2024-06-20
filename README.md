@@ -1,2 +1,3 @@
 # slice-master
-# slice-master
+
+Slice Master Unity Project
