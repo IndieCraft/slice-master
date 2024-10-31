@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "428765247033",
+    "project_id": "fruits-slice-master",
+    "storage_bucket": "fruits-slice-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428765247033:ios:f0093cb8666efb400cffe8",
+        "android_client_info": {
+          "package_name": "com.variablr.slicemaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428765247033-7onmlfg8lhhq6t9palpub4cfiursebh6.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRbCDkXgwfhh9gyKucJXOI9vDltfgO0hU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

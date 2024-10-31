@@ -1,0 +1,9 @@
+diff a/Assets/Script/KnifeScript.cs b/Assets/Script/KnifeScript.cs	(rejected hunks)
+@@ -48,6 +48,7 @@
+                         FindObjectOfType<GameManager>().LeaderboardBtn.SetActive(false);
+                         FindObjectOfType<GameManager>().SettingsBtn.SetActive(false);
+                         //FindObjectOfType<GameManager>().RemoveAdsBtn.SetActive(false);
++                        FindObjectOfType<GameManager>().WorkaroundBg.SetActive(false);
+                         Debug.Log("GAME START");
+                     }
+                     else
